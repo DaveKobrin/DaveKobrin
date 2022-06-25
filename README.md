@@ -1,4 +1,5 @@
-### Hi there 👋
+### Once and future developer
+	I have programming credits on 5 video game titles, and I will be graduating from General Assembly’s Software Engineering Immersive boot camp in November 2022. I have always been interested in technology fields, and I am looking forward to bringing my problem solving skills and creativity back into the software industry.
 
 <!--
 **DaveKobrin/DaveKobrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
