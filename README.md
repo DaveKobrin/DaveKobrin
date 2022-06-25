@@ -1,7 +1,7 @@
 ## Once and future developer
 I have programming credits on 5 video game titles[^1], and I will be graduating from General Assembly’s Software Engineering Immersive boot camp in November 2022. I have always been interested in technology fields, and I am looking forward to bringing my problem solving skills and creativity back into the software industry.
 
-[^1]- Tom Clancy's Rainbow Six: Rogue Spear (Dreamcast)
+[^1] - Tom Clancy's Rainbow Six: Rogue Spear (Dreamcast)
   - Soldier of Fortune: Gold Edition (PS2)
   - Star Trek Voyager: Elite Force (PS2)
   - M&M's Blast! (GBA)
