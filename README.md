@@ -1,3 +1,4 @@
+![an abstract background art I made](/assets/abstract-background.png)
 ## Once and future developer
 I have programming credits on 5 video game titles[^games], and I will be graduating from General Assembly’s Software Engineering Immersive boot camp in November 2022. I have always been interested in technology fields, and I am looking forward to bringing my problem solving skills and creativity back into the software industry.
 
