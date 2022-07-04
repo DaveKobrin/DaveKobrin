@@ -8,7 +8,7 @@ I have programming credits on 5 video game titles[^games], and I will be graduat
     M&M's Blast! (GBA),
     Fortress (GBA).
   
-![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DaveKobrin&theme=merko&show_icons=true)
+![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DaveKobrin&theme=merko&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveKobrin&theme=merko&layout=compact&hide_border=true)
 <!--
 **DaveKobrin/DaveKobrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
