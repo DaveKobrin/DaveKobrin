@@ -8,7 +8,7 @@ I have programming credits on 5 video game titles[^games], and I will be graduat
 
 
 <p align="center">
-<a href="mailto:dave_kobrin@yahoo.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+<a href="mailto:david_kobrin@yahoo.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/david-kobrin-developer-in-nj"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
