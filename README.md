@@ -9,7 +9,7 @@ I have programming credits on 5 video game titles[^games], and I will be graduat
     Fortress (GBA).
   
 ![Dave's github stats](https://github-readme-stats.vercel.app/api?username=DaveKobrin&theme=merko&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveKobrin&theme=merko&layout=compact&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveKobrin&theme=merko&layout=compact&hide_border=false&langs_count=8)
 
 <p align="center">
 <a href="mailto:dave_kobrin@yahoo.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
