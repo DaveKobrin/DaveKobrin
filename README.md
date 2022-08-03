@@ -14,11 +14,11 @@ Once and future developer…
 <a href="https://www.linkedin.com/in/david-kobrin-developer-in-nj"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
-[^games]: Tom Clancy's Rainbow Six: Rogue Spear (Dreamcast),
-    Soldier of Fortune: Gold Edition (PS2),
-    Star Trek Voyager: Elite Force (PS2),
-    M&M's Blast! (GBA),
-    Fortress (GBA).
+[^games]:Tom Clancy's Rainbow Six: Rogue Spear (Dreamcast),
+  Soldier of Fortune: Gold Edition (PS2),
+  Star Trek Voyager: Elite Force (PS2),
+  M&M's Blast! (GBA),
+  Fortress (GBA).
 <!--
 **DaveKobrin/DaveKobrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
