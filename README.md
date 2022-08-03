@@ -1,6 +1,8 @@
 ![an abstract background art I made](/assets/abstract-background.png)
-## Once and future developer
-I have programming credits on 5 video game titles[^games], and I will be graduating from General Assembly’s Software Engineering Immersive boot camp in November 2022. I have always been interested in technology fields, and I am looking forward to bringing my problem solving skills and creativity back into the software industry.
+## Once and future developer...
+Once and future developer…
+	In the past I was a video game programmer at Majesco where I have credits on 5 published titles[^games]. During the Y2K scandal, I lost my job, and continued my career down a variety of paths leading up to automotive mechanic. I found that as a mechanic I used many of the same skills that I used as a developer, identifying a problem, forming a plan to address it, testing, etc. I also learned more about serving customers, understanding their needs and priorities, and how to explain issues clearly and succinctly. I always wanted to get back into coding though, so I enrolled in General Assembly’s Software Engineering bootcamp to update my skills, and now I am excited to be coming back to the field.  
+
 
 [^games]: Tom Clancy's Rainbow Six: Rogue Spear (Dreamcast),
     Soldier of Fortune: Gold Edition (PS2),
