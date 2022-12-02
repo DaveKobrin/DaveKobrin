@@ -10,7 +10,7 @@ Once and future developer…
 
 
 <p align="center">
-<a href="mailto:david_kobrin@yahoo.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+<a href="mailto:davek.programming@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 <a href="https://www.linkedin.com/in/david-kobrin-developer-in-nj"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
